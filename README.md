@@ -323,9 +323,15 @@ ChatGPT 和 Claude 之外，最近问得多的三款 AI 订阅，我们单独整
 
 ## 相关文档
 
-- [代充和成品号到底有什么区别](docs/daichong-vs-chengpinhao.md)
-- [Claude / ChatGPT 充值防坑与账号安全指南](docs/recharge-safety.md)
-- [充值没生效？到账排查与额度机制说明](docs/troubleshooting-no-effect.md)
+**价格与档位**
+- [ChatGPT Plus 多少钱一个月：全档位价格对照与成本拆解](docs/chatgpt-plus-jiage.md)
+- [Claude 国内充值指南：Pro / Max 价格、Claude Code 额度与封号风控](docs/claude-chongzhi.md)
 - [Gemini 国内充值指南：AI Pro / Ultra 档位与价格](docs/gemini-chongzhi.md)
 - [Grok 国内充值指南：X 会员与 SuperGrok 区别](docs/grok-chongzhi.md)
 - [Muse（Meta）国内使用与订阅指南：tokens 与档位](docs/muse-ai-chongzhi.md)
+
+**判断与防坑**
+- [AI 代充为什么便宜？拆开算一遍成本](docs/daichong-weishenme-pianyi.md)
+- [代充和成品号到底有什么区别](docs/daichong-vs-chengpinhao.md)
+- [Claude / ChatGPT 充值防坑与账号安全指南](docs/recharge-safety.md)
+- [充值没生效？到账排查与额度机制说明](docs/troubleshooting-no-effect.md)
