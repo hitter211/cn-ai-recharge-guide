@@ -330,8 +330,12 @@ ChatGPT 和 Claude 之外，最近问得多的三款 AI 订阅，我们单独整
 - [Grok 国内充值指南：X 会员与 SuperGrok 区别](docs/grok-chongzhi.md)
 - [Muse（Meta）国内使用与订阅指南：tokens 与档位](docs/muse-ai-chongzhi.md)
 
+**购买路径**
+- [ChatGPT 会员怎么买：四条购买路径的完整操作步骤](docs/chatgpt-huiyuan-goumai.md)
+
 **判断与防坑**
 - [AI 代充为什么便宜？拆开算一遍成本](docs/daichong-weishenme-pianyi.md)
 - [代充和成品号到底有什么区别](docs/daichong-vs-chengpinhao.md)
+- [Claude 成品号能买吗：风险等级与验号步骤](docs/claude-chengpinhao.md)
 - [Claude / ChatGPT 充值防坑与账号安全指南](docs/recharge-safety.md)
 - [充值没生效？到账排查与额度机制说明](docs/troubleshooting-no-effect.md)
