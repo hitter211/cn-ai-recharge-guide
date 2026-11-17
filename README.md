@@ -33,6 +33,7 @@
 - [十一、避坑清单](#十一避坑清单)
 - [十二、持续复测记录](#十二持续复测记录)
 - [十三、总结](#十三总结)
+- [十四、其他 AI 订阅：Gemini / Grok / Muse](#十四其他-ai-订阅geminigrok-muse)
 
 ## 一、先分清产品：你要买的是什么
 
@@ -307,6 +308,19 @@
 如果这篇教程帮到了你，欢迎点一个 ⭐️ 支持持续更新。有充值相关的疑问也可以在 [Issues](../../issues) 留言，或者在交流群讨论：QQ 群 **808900515**（开通攻略、行情价、避坑交流），扫码即可加入：
 
 ![QQ 交流群二维码，群号 808900515](assets/qq-group-qr.jpg)
+
+## 十四、其他 AI 订阅：Gemini / Grok / Muse
+
+ChatGPT 和 Claude 之外，最近问得多的三款 AI 订阅，我们也在持续整理开通指南与价格对照（利益相关同前：作者自营时差商店，以下均为本站整理内容）：
+
+| 产品 | 是什么 | 国内开通难点 | 详细攻略 |
+|---|---|---|---|
+| Google Gemini | AI Pro $19.99/月、AI Ultra $249.99/月 | 不支持国内卡与支付宝微信直付 | [Gemini 代充怎么开通](https://www.shichangstore.com/guide/gemini-daichong/) |
+| Gemini 价格 | 档位对照、18 个月教育档、低价区风险 | 档位叫法混乱（Plus/Pro 常被混淆） | [Gemini 会员多少钱一个月](https://www.shichangstore.com/guide/gemini-duoshaoqian/) |
+| Grok（xAI） | X 会员附带 Grok，或独立订阅 SuperGrok | X / grok.com 都需要海外支付方式 | [Grok 代充怎么开通](https://www.shichangstore.com/guide/grok-daichong/) |
+| Muse（Meta） | AI 智能体，能真实执行任务；免费每周 1 亿 tokens | 仅美加等部分地区可用，需 Meta 账户 | [Muse AI 代充怎么开通](https://www.shichangstore.com/guide/muse-ai-daichong/) |
+
+判断标准与本文一致：不给密码、可核验、有售后。
 
 ## 相关文档
 
