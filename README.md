@@ -311,19 +311,21 @@
 
 ## 十四、其他 AI 订阅：Gemini / Grok / Muse
 
-ChatGPT 和 Claude 之外，最近问得多的三款 AI 订阅，我们也在持续整理开通指南与价格对照（利益相关同前：作者自营时差商店，以下均为本站整理内容）：
+ChatGPT 和 Claude 之外，最近问得多的三款 AI 订阅，我们单独整理了专题（利益相关同前：作者自营时差商店，均为本站整理内容）：
 
-| 产品 | 是什么 | 国内开通难点 | 详细攻略 |
+| 产品 | 是什么 | 国内开通难点 | 专题文档 |
 |---|---|---|---|
-| Google Gemini | AI Pro $19.99/月、AI Ultra $249.99/月 | 不支持国内卡与支付宝微信直付 | [Gemini 代充怎么开通](https://www.shichangstore.com/guide/gemini-daichong/) |
-| Gemini 价格 | 档位对照、18 个月教育档、低价区风险 | 档位叫法混乱（Plus/Pro 常被混淆） | [Gemini 会员多少钱一个月](https://www.shichangstore.com/guide/gemini-duoshaoqian/) |
-| Grok（xAI） | X 会员附带 Grok，或独立订阅 SuperGrok | X / grok.com 都需要海外支付方式 | [Grok 代充怎么开通](https://www.shichangstore.com/guide/grok-daichong/) |
-| Muse（Meta） | AI 智能体，能真实执行任务；免费每周 1 亿 tokens | 仅美加等部分地区可用，需 Meta 账户 | [Muse AI 代充怎么开通](https://www.shichangstore.com/guide/muse-ai-daichong/) |
+| Google Gemini | AI Pro $19.99/月、AI Ultra $249.99/月，原 Gemini Advanced | 不支持国内卡与支付宝微信直付 | [Gemini 国内充值指南：档位、价格与代充](docs/gemini-chongzhi.md) |
+| Grok（xAI） | X 会员附带 Grok，或独立订阅 SuperGrok | X / grok.com 都需要海外支付方式 | [Grok 国内充值指南：X 会员与 SuperGrok](docs/grok-chongzhi.md) |
+| Muse（Meta） | AI 智能体，能真实执行任务；免费每周约 1 亿 tokens | 仅美加等部分地区开放，需 Meta 账户 | [Muse 国内使用与订阅指南：tokens 与档位](docs/muse-ai-chongzhi.md) |
 
-判断标准与本文一致：不给密码、可核验、有售后。
+三篇里都写了：档位与官方定价、为什么国内付不了、代充流程需要提供什么、报价怎么判断、以及"要密码就是骗子"这条底线。需要更细的排查步骤和问答，可以看官网对应页面：[Gemini 代充](https://www.shichangstore.com/guide/gemini-daichong/) · [Gemini 价格](https://www.shichangstore.com/guide/gemini-duoshaoqian/) · [Grok 代充](https://www.shichangstore.com/guide/grok-daichong/) · [Muse 代充](https://www.shichangstore.com/guide/muse-ai-daichong/)。
 
 ## 相关文档
 
 - [代充和成品号到底有什么区别](docs/daichong-vs-chengpinhao.md)
 - [Claude / ChatGPT 充值防坑与账号安全指南](docs/recharge-safety.md)
 - [充值没生效？到账排查与额度机制说明](docs/troubleshooting-no-effect.md)
+- [Gemini 国内充值指南：AI Pro / Ultra 档位与价格](docs/gemini-chongzhi.md)
+- [Grok 国内充值指南：X 会员与 SuperGrok 区别](docs/grok-chongzhi.md)
+- [Muse（Meta）国内使用与订阅指南：tokens 与档位](docs/muse-ai-chongzhi.md)
