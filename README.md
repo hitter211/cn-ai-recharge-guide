@@ -4,7 +4,7 @@
 
 > **安全提示：** 第三方充值服务可能需要额外的账号授权信息，请充分了解其安全风险。无论选择哪家服务，都不要向任何不可信第三方提供账号密码、验证码或 API Key。正规代充只需要会话凭证或账号 ID，索要密码的直接拉黑。
 
-> 本文更新于 **2026 年 11 月 17 日**。作者自营订阅充值服务（时差商店），文中利益相关已如实披露，非官方。**如果本文对你有帮助，希望给一个小 ⭐️⭐️ 支持一下，教程每月核对、持续更新。**
+> 本文更新于 **2026 年 11 月 18 日**。作者自营订阅充值服务（时差商店），文中利益相关已如实披露，非官方。**如果本文对你有帮助，希望给一个小 ⭐️⭐️ 支持一下，教程每月核对、持续更新。**
 
 人在国内，没有海外信用卡，怎么把自己的 ChatGPT / Claude 账号升级成 Plus / Pro / Max？
 
@@ -288,6 +288,7 @@
 
 ## 十二、持续复测记录
 
+- **2026-11-18**：新增「代充辟谣 + 封号判责矩阵」（见 Gemini 篇第六至九节）；复核代充所需材料仅为 Gmail 地址，密码、验证码、两步验证备用码均非必需。
 - **2026-11-10**：全文重写并核对价格区间；ChatGPT / Claude 代充流程复测可用。
 - **2026-11-05**：核对 Claude Max 档位与官方定价页一致。
 
@@ -315,7 +316,7 @@ ChatGPT 和 Claude 之外，最近问得多的三款 AI 订阅，我们单独整
 
 | 产品 | 是什么 | 国内开通难点 | 专题文档 |
 |---|---|---|---|
-| Google Gemini | AI Pro $19.99/月、AI Ultra $249.99/月，原 Gemini Advanced | 不支持国内卡与支付宝微信直付 | [Gemini 国内充值指南：档位、价格与代充](docs/gemini-chongzhi.md) |
+| Google Gemini | AI Pro $19.99/月、AI Ultra $249.99/月，原 Gemini Advanced | 不支持国内卡与支付宝微信直付 | [Gemini 国内充值指南：档位、价格、辟谣与封号判责](docs/gemini-chongzhi.md) |
 | Grok（xAI） | X 会员附带 Grok，或独立订阅 SuperGrok | X / grok.com 都需要海外支付方式 | [Grok 国内充值指南：X 会员与 SuperGrok](docs/grok-chongzhi.md) |
 | Muse（Meta） | AI 智能体，能真实执行任务；免费每周约 1 亿 tokens | 仅美加等部分地区开放，需 Meta 账户 | [Muse 国内使用与订阅指南：tokens 与档位](docs/muse-ai-chongzhi.md) |
 
@@ -326,7 +327,7 @@ ChatGPT 和 Claude 之外，最近问得多的三款 AI 订阅，我们单独整
 **价格与档位**
 - [ChatGPT Plus 多少钱一个月：全档位价格对照与成本拆解](docs/chatgpt-plus-jiage.md)
 - [Claude 国内充值指南：Pro / Max 价格、Claude Code 额度与封号风控](docs/claude-chongzhi.md)
-- [Gemini 国内充值指南：AI Pro / Ultra 档位与价格](docs/gemini-chongzhi.md)
+- [Gemini 国内充值指南：AI Pro / Ultra 档位、价格、代充辟谣与封号判责](docs/gemini-chongzhi.md)
 - [Grok 国内充值指南：X 会员与 SuperGrok 区别](docs/grok-chongzhi.md)
 - [Muse（Meta）国内使用与订阅指南：tokens 与档位](docs/muse-ai-chongzhi.md)
 
@@ -335,6 +336,7 @@ ChatGPT 和 Claude 之外，最近问得多的三款 AI 订阅，我们单独整
 
 **判断与防坑**
 - [AI 代充为什么便宜？拆开算一遍成本](docs/daichong-weishenme-pianyi.md)
+- [代充会不会封号：辟谣三条 + 封号判责矩阵（Gemini 篇第七至九节）](docs/gemini-chongzhi.md#七辟谣搜索里最常见的三条说法)
 - [代充和成品号到底有什么区别](docs/daichong-vs-chengpinhao.md)
 - [Claude 成品号能买吗：风险等级与验号步骤](docs/claude-chengpinhao.md)
 - [Claude / ChatGPT 充值防坑与账号安全指南](docs/recharge-safety.md)
