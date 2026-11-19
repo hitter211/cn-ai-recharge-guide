@@ -341,3 +341,4 @@ ChatGPT 和 Claude 之外，最近问得多的三款 AI 订阅，我们单独整
 - [Claude 成品号能买吗：风险等级与验号步骤](docs/claude-chengpinhao.md)
 - [Claude / ChatGPT 充值防坑与账号安全指南](docs/recharge-safety.md)
 - [充值没生效？到账排查与额度机制说明](docs/troubleshooting-no-effect.md)
+- [Gemini 学生优惠自查与排查手册：「18 个月」辟谣、SheerID 失败排查](docs/gemini-18geyue.md)
