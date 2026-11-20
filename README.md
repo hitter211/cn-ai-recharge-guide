@@ -335,6 +335,7 @@ ChatGPT 和 Claude 之外，最近问得多的三款 AI 订阅，我们单独整
 - [Claude 国内充值指南：Pro / Max 价格、Claude Code 额度与封号风控](docs/claude-chongzhi.md)
 - [Gemini 国内充值指南：AI Pro / Ultra 档位、价格、代充辟谣与封号判责](docs/gemini-chongzhi.md)
 - [Grok 国内充值指南：X 会员与 SuperGrok 区别](docs/grok-chongzhi.md)
+- [SuperGrok 与 Grok 档位对照手册：旧名对照、选档清单与验号步骤](docs/supergrok-vs-grok.md)
 - [Muse（Meta）国内使用与订阅指南：tokens 与档位](docs/muse-ai-chongzhi.md)
 
 **购买路径**

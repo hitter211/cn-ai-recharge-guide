@@ -4,6 +4,8 @@
 
 一句话结论：用 Grok 有两个订阅入口——**X 会员（X Premium）**和 **SuperGrok**（grok.com 独立订阅），国内支付两边都走不通，代充是主流路径。本文实测店内在售档位：**Grok Plus 1 个月 ¥50**（随汇率调整，以当期报价为准）。
 
+> 档位名称已在 2026 年 10 月统一：官方把 Grok、Cursor 与 X Premium 合并为 **The X Subscription**（Plus $8 / Premium $30 / Super $100 / Ultra $200），原 SuperGrok 对应 Premium 档。名称对照、选档清单与验号步骤见 [SuperGrok 与 Grok 档位对照手册](supergrok-vs-grok.md)。
+
 ## 一、先分清进哪个入口
 
 | 入口 | 在哪用 | 特点 | 适合谁 |
@@ -63,3 +65,4 @@
 ## 八、复测记录
 
 - **2026-11-17**：X 会员 / SuperGrok 两条入口的流程与代充环节复测可用；价格按当期报价维护。
+- **2026-11-20**：官方档位名称核对，已统一为 The X Subscription（旧 SuperGrok → Premium $30），本篇补名称对照指引，流程与安全边界不变。
