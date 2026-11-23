@@ -330,6 +330,8 @@ ChatGPT 和 Claude 之外，最近问得多的三款 AI 订阅，我们单独整
 
 三篇里都写了：档位与官方定价、为什么国内付不了、代充流程需要提供什么、报价怎么判断、以及"要密码就是骗子"这条底线。需要更细的排查步骤和问答，可以看官网对应页面：[Gemini 代充](https://www.shichangstore.com/guide/gemini-daichong/) · [Gemini 价格](https://www.shichangstore.com/guide/gemini-duoshaoqian/) · [Grok 代充](https://www.shichangstore.com/guide/grok-daichong/) · [Muse 代充](https://www.shichangstore.com/guide/muse-ai-daichong/)。
 
+Grok 这条线另有一篇操作手册，专讲"账号从哪来"：[Grok 账号怎么注册、买来的号怎么验（十项清单与 7 天号风险）](docs/grok-zhanghao.md)。只想弄清档位差别的看 [SuperGrok 与 Grok 档位对照](docs/supergrok-vs-grok.md)。
+
 ## 相关文档
 
 **价格与档位**
@@ -342,6 +344,7 @@ ChatGPT 和 Claude 之外，最近问得多的三款 AI 订阅，我们单独整
 
 **购买路径**
 - [ChatGPT 会员怎么买：四条购买路径的完整操作步骤](docs/chatgpt-huiyuan-goumai.md)
+- [Grok 账号获取方式对照：自注册、代充、买现成号的十项验号清单](docs/grok-zhanghao.md)
 
 **判断与防坑**
 - [代充服务商可信度评分卡：12 项自查、话术词典与纠纷处理时间线](docs/kaopu-panduan.md)
