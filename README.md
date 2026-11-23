@@ -218,6 +218,8 @@
 3. **售后条款写得清楚**。掉订阅怎么处理？封号赔不赔？按剩余天数折算还是全额？口头承诺一律当没有。
 4. **交付时效明确**。正规渠道工作时段 2 小时内到账，超过 24 小时还没动静的要警惕二手转单。
 
+这四条怎么落到具体打分上，见 [代充服务商可信度评分卡](docs/kaopu-panduan.md)（12 项、每项 0/1/2 分，附话术对照与纠纷处理时间线）。
+
 ## 九、代充流程实操（ChatGPT / Claude）
 
 ### ChatGPT（需要会话凭证）
@@ -342,6 +344,7 @@ ChatGPT 和 Claude 之外，最近问得多的三款 AI 订阅，我们单独整
 - [ChatGPT 会员怎么买：四条购买路径的完整操作步骤](docs/chatgpt-huiyuan-goumai.md)
 
 **判断与防坑**
+- [代充服务商可信度评分卡：12 项自查、话术词典与纠纷处理时间线](docs/kaopu-panduan.md)
 - [AI 代充为什么便宜？拆开算一遍成本](docs/daichong-weishenme-pianyi.md)
 - [代充会不会封号：辟谣三条 + 封号判责矩阵（Gemini 篇第七至九节）](docs/gemini-chongzhi.md#七辟谣搜索里最常见的三条说法)
 - [代充和成品号到底有什么区别](docs/daichong-vs-chengpinhao.md)
