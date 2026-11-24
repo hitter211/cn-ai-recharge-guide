@@ -356,3 +356,4 @@ Grok 这条线另有一篇操作手册，专讲"账号从哪来"：[Grok 账号�
 - [Claude / ChatGPT 充值防坑与账号安全指南](docs/recharge-safety.md)
 - [充值没生效？到账排查与额度机制说明](docs/troubleshooting-no-effect.md)
 - [Gemini 学生优惠自查与排查手册：「18 个月」辟谣、SheerID 失败排查](docs/gemini-18geyue.md)
+- [Gemini 4 四款模型选择手册：Neon/Carbon/Hydrogen/Argon 档位对照与开通验证](docs/gemini-4-models.md)
