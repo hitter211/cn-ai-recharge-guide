@@ -336,6 +336,7 @@ Grok 这条线另有一篇操作手册，专讲"账号从哪来"：[Grok 账号�
 
 **价格与档位**
 - [ChatGPT Plus 多少钱一个月：全档位价格对照与成本拆解](docs/chatgpt-plus-jiage.md)
+- [ChatGPT Plus 与 Pro 对照手册：差在哪、怎么升、升完怎么验](docs/plus-vs-pro.md)
 - [Claude 国内充值指南：Pro / Max 价格、Claude Code 额度与封号风控](docs/claude-chongzhi.md)
 - [Gemini 国内充值指南：AI Pro / Ultra 档位、价格、代充辟谣与封号判责](docs/gemini-chongzhi.md)
 - [Grok 国内充值指南：X 会员与 SuperGrok 区别](docs/grok-chongzhi.md)
