@@ -95,4 +95,5 @@ A：订阅不解决网络可用性。环境不通的情况下付费也用不了�
 
 - **2026-11-17**：核对 Anthropic 官方定价（Pro $20/月、$17/月年付；Max 5× $100、20× $200）；确认 Claude Code 额度包含在订阅内；封号风控描述按公开用户反馈整理。
 
+- **2026-11-25**：本店调价：Pro ¥150/月、Max 5x ¥816/月、Max 20x ¥1,540/月，官网代充/成品号页与 [Claude 代充价格](https://www.shichangstore.com/guide/claude-daichong-jiage/) 同步更新。
 官网完整版：[Claude 代充多少钱一个月](https://www.shichangstore.com/guide/claude-daichong-jiage/)、[Claude Code 怎么充值](https://www.shichangstore.com/guide/claude-code-chongzhi/)。

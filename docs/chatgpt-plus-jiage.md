@@ -94,4 +94,5 @@ A：OpenAI 不定期有教育相关活动，以官方公告为准。第三方"�
 
 - **2026-11-17**：核对 OpenAI 官方定价页（Plus $20/月、Pro $200/月、Team $25 年付/$30 月付）；确认 Plus 无年付选项；税费与货币转换费区间按主流发卡行公布费率整理。
 
+- **2026-11-25**：本店调价：Plus ¥128/月、Pro 5x ¥680/月、20x ¥1,132/月、50x ¥3,500/月；按本文分档表，¥128 落在"¥110～¥150 偏便宜但合理"档（渠道成本优势），仍高于 ¥60～¥110 警惕区间。
 官网完整版（含代充流程与更多问答）：[ChatGPT 代充多少钱一个月](https://www.shichangstore.com/guide/chatgpt-daichong-jiage/)、[ChatGPT 会员怎么买](https://www.shichangstore.com/guide/chatgpt-huiyuan-goumai/)。
