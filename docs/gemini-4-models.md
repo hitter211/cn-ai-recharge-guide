@@ -39,13 +39,23 @@
 4. 走代充的，付款前核验卖家口碑与售后规则，六条判断标准见 [代充靠谱吗](https://www.shichangstore.com/guide/daichong-kaopu-ma/)
 5. 全档位价格与年付折算见 [Gemini 会员多少钱一个月](https://www.shichangstore.com/guide/gemini-duoshaoqian/)；开通流程与防坑见 [Gemini 代充怎么开通](https://www.shichangstore.com/guide/gemini-daichong/)
 
-## 五、复测记录
+## 五、Argon 专节：首款模型退场的验证要点（A1 簇）
+
+Argon 是四款里唯一"从有到无"的，单独列一节，完整时间线见 [Gemini Argon 退场时间线与验证清单](gemini-argon.md)。本节只留可操作的要点：
+
+1. **判断订阅状态**：Pro / Ultra 订阅里没有 Argon = 正常（11-18 起被 Neon 替换），不需要找卖家"修复"。
+2. **API 计价核对**：11 月内 $2 / $10（促销），12-1 起 $4 / $20；账单对不上价先怀疑渠道。
+3. **存量迁移三步**：盘点模型名与调参 → Neon 回归对比 → 算 12 月后用量账（Neon $3 / $15 更便宜更强，迁移纯收益）。
+4. **话术免疫**：订阅侧已无此模型，"Argon 订阅内部价 / 带 Argon 的号"一律按话术处理。
+
+## 六、复测记录
 
 - 2026-11-24：对照 Google Cloud 官方文档（Gemini 4 model family 四款规格）、官方博客与帮助页订阅行、Artificial Analysis 指数 v5.0.1（Neon 61 / Carbon 60 / Hydrogen 54 / Opus 5.5 59）、第三方单任务实测（Neon $6.44 vs Carbon $7.76）交叉核对；四款发布日期与 API 价以官方 changelog 为准
 - Argon 从订阅列表隐去的结论来自官方帮助页当前状态（11-19 起多源一致）；API 无弃用通知，以官方 changelog 为准
+- 2026-11-26：新增第五节 Argon 专节（呼应官网 Argon 详解页上线），事实未变化；Argon 订阅行仍为"已被 Neon 替换"，定价页促销窗口仍标至 11-30
 - 模型列表"可能随时调整且不另行通知"（官方原话），本文按月复核，下次复核 2026-12-05（覆盖 Carbon 涨价节点）
 
-## 六、FAQ
+## 七、FAQ
 
 1. **Pro 订阅能用 Neon 吗？** 能，Neon 门槛就是 Pro/Ultra，Pro 在 App 直接可点。
 2. **Carbon 只有 Ultra 能用吗？** 是，Pro 点不到；需要 Carbon 级能力只能升级或走 API。
@@ -56,4 +66,4 @@
 
 ---
 
-*相关文档：[Gemini 国内充值指南](gemini-chongzhi.md) · [代充为什么便宜](daichong-weishenme-pianyi.md) · [充值防坑与账号安全](recharge-safety.md)*
+*相关文档：[Gemini Argon 退场时间线与验证清单](gemini-argon.md) · [Gemini 国内充值指南](gemini-chongzhi.md) · [代充为什么便宜](daichong-weishenme-pianyi.md) · [充值防坑与账号安全](recharge-safety.md)*
